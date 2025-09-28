@@ -18,12 +18,12 @@ A simple **Java-based console application** that simulates basic bank account op
 
 ## 🧱 Project Structure
 
-Project/
-├── Account.java // Represents a user's bank account
-├── Bank.java // Manages accounts, login logic, and account creation
-├── login.java // Provides account operations like view, deposit, withdraw, logout
-├── Main.java // Program entry point and main user interaction loop
-└── README.md // Project documentation (this file)
+-Project/
+-├── Account.java // Represents a user's bank account
+-├── Bank.java // Manages accounts, login logic, and account creation
+-├── login.java // Provides account operations like view, deposit, withdraw, logout
+-├── Main.java // Program entry point and main user interaction loop
+-└── README.md // Project documentation (this file)
 
 
 
